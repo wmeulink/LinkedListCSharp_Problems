@@ -1,0 +1,4 @@
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.csprojAssemblyReference.cache
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.AssemblyInfoInputs.cache
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.AssemblyInfo.cs

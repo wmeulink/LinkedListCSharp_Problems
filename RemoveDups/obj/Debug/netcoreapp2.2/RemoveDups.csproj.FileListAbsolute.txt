@@ -1,0 +1,11 @@
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\bin\Debug\netcoreapp2.2\RemoveDups.deps.json
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\bin\Debug\netcoreapp2.2\RemoveDups.runtimeconfig.json
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\bin\Debug\netcoreapp2.2\RemoveDups.runtimeconfig.dev.json
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\bin\Debug\netcoreapp2.2\RemoveDups.dll
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\bin\Debug\netcoreapp2.2\RemoveDups.pdb
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\obj\Debug\netcoreapp2.2\RemoveDups.csprojAssemblyReference.cache
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\obj\Debug\netcoreapp2.2\RemoveDups.csproj.CoreCompileInputs.cache
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\obj\Debug\netcoreapp2.2\RemoveDups.AssemblyInfoInputs.cache
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\obj\Debug\netcoreapp2.2\RemoveDups.AssemblyInfo.cs
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\obj\Debug\netcoreapp2.2\RemoveDups.dll
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\obj\Debug\netcoreapp2.2\RemoveDups.pdb
