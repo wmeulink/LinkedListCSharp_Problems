@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "RemoveDups/1.0.0": {
+        "dependencies": {
+          "LinkedList": "1.0.0"
+        },
         "runtime": {
           "RemoveDups.dll": {}
+        }
+      },
+      "LinkedList/1.0.0": {
+        "runtime": {
+          "LinkedList.dll": {}
         }
       }
     }
   },
   "libraries": {
     "RemoveDups/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinkedList/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

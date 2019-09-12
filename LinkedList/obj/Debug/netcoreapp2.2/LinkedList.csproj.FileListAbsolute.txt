@@ -2,3 +2,10 @@ C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\obj\Debug\netc
 C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.csproj.CoreCompileInputs.cache
 C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.AssemblyInfoInputs.cache
 C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.AssemblyInfo.cs
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.deps.json
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.runtimeconfig.json
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.runtimeconfig.dev.json
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.dll
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\bin\Debug\netcoreapp2.2\LinkedList.pdb
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.dll
+C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\LinkedList\obj\Debug\netcoreapp2.2\LinkedList.pdb
