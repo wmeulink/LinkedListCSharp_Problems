@@ -9,6 +9,3 @@ C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\obj\Debug\netc
 C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\obj\Debug\netcoreapp2.2\RemoveDups.AssemblyInfo.cs
 C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\obj\Debug\netcoreapp2.2\RemoveDups.dll
 C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\obj\Debug\netcoreapp2.2\RemoveDups.pdb
-C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\bin\Debug\netcoreapp2.2\LinkedList.dll
-C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\bin\Debug\netcoreapp2.2\LinkedList.pdb
-C:\Users\Whitney\source\repos\LinkedListProblemsCSharp\RemoveDups\obj\Debug\netcoreapp2.2\RemoveDups.csproj.CopyComplete
